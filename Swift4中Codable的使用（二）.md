@@ -1,4 +1,4 @@
-# Swift4中Codable的使用（二）
+# Swift4中Codable的使用 自定义encode decode（二）
 
 >继上一篇文章，我们学习了`Codable`协议在json与模型之间编码和解码的基本使用。本篇我们将继续了解该协议，实现自定义模型转json编码和自定义json转模型解码的过程。
 
